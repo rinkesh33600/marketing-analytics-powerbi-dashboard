@@ -48,15 +48,15 @@ data/
 - users.csv  
 
 dashboard/
-- Marketing Dashboard.pbix  
+- Marketing_Dashboard.pbix  
 
 images/
-- Screenshot Dashboard.png  
+- Screenshot_Dashboard.png  
 
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](Screenshot Dashboard.png)
+![Dashboard](Screenshot_Dashboard.png)
 
 ---
 
