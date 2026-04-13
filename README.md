@@ -6,26 +6,28 @@ An end-to-end marketing analytics dashboard built using Power BI to evaluate cam
 ---
 
 ## 🎯 Objectives
-- Analyze marketing campaign performance across platforms  
-- Identify high ROI channels and campaigns  
-- Understand user conversion funnel  
-- Enable data-driven marketing decisions  
+- Analyze campaign performance across platforms and channels  
+- Identify high ROI campaigns and marketing channels  
+- Understand user conversion funnel behavior  
+- Enable data-driven marketing decision making  
 
 ---
 
-## 🧠 Key Insights
-- Facebook delivers the highest revenue and ROI, making it the most efficient channel  
-- Significant drop from clicks to purchases indicates conversion funnel inefficiencies  
-- Top 10 campaigns contribute the majority of total revenue  
-- High-performing user segments identified through country and age-based analysis  
+## 🧠 Key Insights & Recommendations
+- Facebook is the most efficient marketing channel, delivering both high revenue and strong ROI  
+- A significant drop from clicks to purchases indicates inefficiencies in the conversion funnel  
+- Top-performing campaigns contribute the majority of overall revenue  
+- United States shows strong conversion performance and high growth potential  
+- Users aged 25–34 represent the most responsive audience segment  
 
 ---
 
-## 📈 Features
+## 📈 Dashboard Features
 - KPI tracking: Revenue, Cost, ROI, CTR, Conversion Rate  
-- Funnel Analysis: Impressions → Clicks → Conversions  
-- Campaign Performance Analysis (Top & Bottom campaigns)  
-- User Segmentation: Country, Age Group, Gender  
+- Funnel analysis: Impressions → Clicks → Conversions  
+- Platform performance comparison  
+- Campaign analysis (Top 10 & Bottom 10 campaigns)  
+- User segmentation: Country, Age Group, Gender  
 - Interactive slicers and tooltips  
 
 ---
@@ -37,3 +39,35 @@ An end-to-end marketing analytics dashboard built using Power BI to evaluate cam
 - Data Modeling (Star Schema)  
 
 ---
+
+## 📂 Project Structure
+data/
+- ad_events.csv  
+- ads.csv  
+- campaigns.csv  
+- users.csv  
+
+dashboard/
+- Marketing Dashboard.pbix  
+
+images/
+- Screenshot Dashboard.png  
+
+---
+
+## 📷 Dashboard Preview
+![Dashboard](Screenshot Dashboard.png)
+
+---
+
+## 💡 Business Value
+- Enabled comparison of marketing performance across platforms and campaigns  
+- Identified high-ROI channels for better budget allocation  
+- Highlighted funnel drop-offs to improve conversion efficiency  
+- Delivered actionable insights to support strategic marketing decisions  
+
+---
+
+## 📌 Notes
+- Revenue is simulated using an assumed Average Order Value (AOV)  
+- Dataset used for learning and portfolio purposes  
