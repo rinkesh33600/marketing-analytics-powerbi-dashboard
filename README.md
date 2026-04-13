@@ -37,5 +37,3 @@ An end-to-end marketing analytics dashboard built using Power BI to evaluate cam
 - Data Modeling (Star Schema)  
 
 ---
-
-## 📂 Project Structure
